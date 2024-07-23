@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\leaveapplications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\leaveapplications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\viewmodels\\rolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\viewmodels\\rolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\controllers\\systemcodedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\controllers\\systemcodedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|c:\\users\\raush\\source\\repos\\employeesmanagement\\employeesmanagement\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD97AAF1-B923-4DA6-BA9C-9901ACC28E2A}|EmployeesManagement\\EmployeesManagement.csproj|solutionrelative:employeesmanagement\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\LeaveApplications\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\LeaveApplications\\Create.cshtml",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\LeaveApplications\\Create.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\LeaveApplications\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T09:31:00.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Roles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Roles\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T07:14:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T05:35:37.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "EmployeesManagement\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:30:26.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T05:26:18.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "EmployeesManagement\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:48:10.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T05:44:24.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T06:45:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RolesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\ViewModels\\RolesViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\ViewModels\\RolesViewModel.cs",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\ViewModels\\RolesViewModel.cs",
+              "RelativeToolTip": "EmployeesManagement\\ViewModels\\RolesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:37:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EmployeesManagement\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:43:17.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SystemCodeDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\SystemCodeDetailsController.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Controllers\\SystemCodeDetailsController.cs",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Controllers\\SystemCodeDetailsController.cs",
+              "RelativeToolTip": "EmployeesManagement\\Controllers\\SystemCodeDetailsController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAswGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:08:45.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAABAAAAAAAAAAAAAAwBAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T05:40:32.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Program.cs",
+              "RelativeToolTip": "EmployeesManagement\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowFUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:21:46.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EmployeesManagement\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\raush\\source\\repos\\EmployeesManagement\\EmployeesManagement\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "EmployeesManagement\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowC0AAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T05:22:40.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
